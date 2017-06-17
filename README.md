@@ -3,8 +3,13 @@ A react-native component to generate [QRcode](http://en.wikipedia.org/wiki/QR_co
 
 ## Installation
 ```sh
-npm install react-native-qrcode --save-dev
+# npm
+npm install react-native-qrcode --save
+
+# yarn
+yarn add react-native-qrcode
 ```
+
 ## Usage
 ```jsx
 'use strict';
